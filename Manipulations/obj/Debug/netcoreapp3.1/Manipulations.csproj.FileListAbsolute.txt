@@ -1,0 +1,13 @@
+C:\Users\lohit\source\repos\Manipulations\Manipulations\obj\Debug\netcoreapp3.1\Manipulations.csprojAssemblyReference.cache
+C:\Users\lohit\source\repos\Manipulations\Manipulations\obj\Debug\netcoreapp3.1\Manipulations.csproj.CoreCompileInputs.cache
+C:\Users\lohit\source\repos\Manipulations\Manipulations\obj\Debug\netcoreapp3.1\Manipulations.AssemblyInfoInputs.cache
+C:\Users\lohit\source\repos\Manipulations\Manipulations\obj\Debug\netcoreapp3.1\Manipulations.AssemblyInfo.cs
+C:\Users\lohit\source\repos\Manipulations\Manipulations\bin\Debug\netcoreapp3.1\Manipulations.exe
+C:\Users\lohit\source\repos\Manipulations\Manipulations\bin\Debug\netcoreapp3.1\Manipulations.deps.json
+C:\Users\lohit\source\repos\Manipulations\Manipulations\bin\Debug\netcoreapp3.1\Manipulations.runtimeconfig.json
+C:\Users\lohit\source\repos\Manipulations\Manipulations\bin\Debug\netcoreapp3.1\Manipulations.runtimeconfig.dev.json
+C:\Users\lohit\source\repos\Manipulations\Manipulations\bin\Debug\netcoreapp3.1\Manipulations.dll
+C:\Users\lohit\source\repos\Manipulations\Manipulations\bin\Debug\netcoreapp3.1\Manipulations.pdb
+C:\Users\lohit\source\repos\Manipulations\Manipulations\obj\Debug\netcoreapp3.1\Manipulations.dll
+C:\Users\lohit\source\repos\Manipulations\Manipulations\obj\Debug\netcoreapp3.1\Manipulations.pdb
+C:\Users\lohit\source\repos\Manipulations\Manipulations\obj\Debug\netcoreapp3.1\Manipulations.genruntimeconfig.cache
